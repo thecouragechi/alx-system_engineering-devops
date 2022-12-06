@@ -1,2 +1,2 @@
 #!/bin/bash
-export varname=value
+export varName="value"
